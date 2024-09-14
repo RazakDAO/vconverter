@@ -50,7 +50,7 @@ const Faq = () => {
                             </AccordionContent>
                         </AccordionItem>
                     </Accordion>
-                </div>
+                </div> 
             </div>
         </div>
     </section>
